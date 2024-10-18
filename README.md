@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Domingos!
+## Olá! Eu sou o João, mas pode me chamar de DekLupi!
 
 <p>
         👋 Olá! Sou João, um entusiasta da tecnologia em processo de aprendizado de Java, HTML, CSS, JavaScript e Python. Já cursei inglês e estou no nível intermediário avançado. Tenho interesse em desenvolvimento web e desenvolvimento de jogos!
@@ -51,13 +51,6 @@
     <a href="mailto:jpdomingossantana@hotmail.com"
       ><img
         src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000"
-        target="_blank"
-    /></a>
-    <a
-      href="https://www.linkedin.com/in/jo%C3%A3o-pedro-domingos-santana-7bb5b82ab/"
-      target="_blank"
-      ><img
-        src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
         target="_blank"
     /></a>
   </div>
